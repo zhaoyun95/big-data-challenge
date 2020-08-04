@@ -7,10 +7,10 @@ Review dataset: https://s3.amazonaws.com/amazon-reviews-pds/tsv/index.txt
 Amazon has several policies to reduce the bias of its Vine reviews: https://www.amazon.com/gp/vine/help?ie=UTF8.  
 But are Vine reviews truly trustworthy? Your task is to investigate whether Vine reviews are free of bias.   
 
-
-- level1a.ipynb  Google Colab notebook which loads video game reivews
-- level1b.ipynb  Google Colab notebook which loads apparel reviews
-- level2.ipynb   Google Colab notebook which does the analysis
+#### list of files
+- level1a.ipynb : Google Colab notebook which loads video game reivews
+- level1b.ipynb : Google Colab notebook which loads apparel reviews
+- level2.ipynb  : Google Colab notebook which does the analysis
 
 
 ### Conclusion:
