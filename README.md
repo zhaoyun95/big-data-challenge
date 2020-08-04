@@ -10,7 +10,7 @@ But are Vine reviews truly trustworthy? Your task is to investigate whether Vine
 
 - level1a.ipynb  Google Colab notebook which loads video game reivews
 - level1b.ipynb  Google Colab notebook which loads apparel reviews
-- level2.ipynb   Google Colab notebook which did the analysis
+- level2.ipynb   Google Colab notebook which does the analysis
 
 
 ### Conclusion:
