@@ -14,6 +14,6 @@ But are Vine reviews truly trustworthy? Your task is to investigate whether Vine
 
 
 ### Conclusion:
-* Vine reviews in general have higher start ratings (4.03 > 3.80)
+* Vine reviews in general have higher star ratings (4.03 > 3.80)
 * Vine reviews have higher percentage of helpful votes. (74.7% > 72.0%)
 * in short, Vine reviews are useful, but we should keep in mind that their ratings are usually higher than normal.
